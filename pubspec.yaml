@@ -68,7 +68,7 @@ flutter:
     - assets/img/hotel_foto1.jpg
     - assets/img/hotel_foto2.jpg
     - assets/img/hotel_foto3.png
-   #  - img/a_dot_ham.jpeg
+    - assets/img/screen_two.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
