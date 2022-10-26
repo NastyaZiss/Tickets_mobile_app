@@ -29,7 +29,6 @@ class _HomeScreenState extends State<HomeScreen> {
                 const Gap(40),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
-
                   children: [
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
